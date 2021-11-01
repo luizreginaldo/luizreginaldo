@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+## Github Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luizreginaldo&show_icons=true&count_private=true&theme=github_dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizreginaldo&layout=compact&theme=github_dark&hide_border=true)
 
 <!--
 **luizreginaldo/luizreginaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
