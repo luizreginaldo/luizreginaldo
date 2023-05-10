@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am an experienced PHP software engineer with skills in web development, using the Laravel framework, MySQL, Linux, Docker, Git, Github, Jira, system integration, and APIs. I also have solid experience with SQS, S3, EC2, Lambda, and DynamoDB, as well as other programming languages such as Java, Kotlin, and Apache Camel.
+
+Throughout my career, I have worked on various software projects, delivering efficient, scalable, and high-quality solutions to clients in different industries. I am passionate about developing innovative solutions that meet the needs of end-users.
+
 ## ⚡ GitHub Stats
 
 <div align="center">
